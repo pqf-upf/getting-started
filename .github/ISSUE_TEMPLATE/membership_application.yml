@@ -1,6 +1,6 @@
 name: Request Membership
 description: Apply to join Pompeu Quantitative Economics
-title: "Membership Request: {{ full_name }}"
+title: "Membership Request"
 labels: ["membership", "pending-review"]
 body:
   - type: markdown

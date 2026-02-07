@@ -28,7 +28,7 @@ Your GitHub profile is your technical identity. Recruiters, collaborators, and r
 
 5. **Location** — Barcelona, Spain (or your actual location).
 
-6. **Social accounts** — We recommend linking your LinkedIn profile, personal websites, and any other you want to share.
+6. **Social accounts** — We recommend linking your LinkedIn profile, and any other you want to share.
 
 7. **Organizations** — PQE once you're a member.
 

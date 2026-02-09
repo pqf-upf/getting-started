@@ -47,6 +47,7 @@ Student at Universitat Pompeu Fabra.
 
 **Contact:** [email or LinkedIn]
 ```
+If you are not familiar with Markdown (.md) formatting, I strongly recommend reading [this guide](https://ia.net/writer/support/basics/markdown-guide).
 
 ### Repository Hygiene
 

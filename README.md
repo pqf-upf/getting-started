@@ -1,12 +1,12 @@
-# Getting Started with PQE
+# Getting Started with PQF
 
-This short guide covers the basics you need to join the PQE GitHub community and start contributing.
+This short guide covers the basics you need to join the PQF GitHub community and start contributing.
 
 ---
 
 ## 1. Membership
 
-PQE is open to students taking or planning to take the Advanced Quantitative Methods Program (MQA) at UPF.
+PQF is open to students taking or planning to take the Advanced Quantitative Methods Program (MQA) at UPF.
 
 **Not yet a member?** [Request membership here](https://github.com/pqe-upf/getting-started/issues/new?template=membership_application.yml).
 
@@ -30,7 +30,7 @@ Your GitHub profile is your technical identity. I recommend taking five minutes 
 
 6. **Social accounts** — I recommend linking your LinkedIn profile, and any other you want to share.
 
-7. **Organizations** — PQE once you're a member (automatic).
+7. **Organizations** — PQF once you're a member (automatic).
 
 ### Profile README (Very optional)
 
